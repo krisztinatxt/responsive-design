@@ -1,0 +1,12 @@
+.column{
+    width: 30%;
+    margin: 10px;
+   }
+
+}
+@media (max-width:992px){
+    .column{
+        width: 100%;
+        margin: 10px 0px;
+    }
+}
